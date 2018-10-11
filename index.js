@@ -28,5 +28,5 @@ function makeInt(string) {
 }
 
 function preserveDecimal(string) {
-  return preserveDecimal(string);
+  return parseFloat(string);
 }
